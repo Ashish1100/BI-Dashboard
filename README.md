@@ -9,5 +9,5 @@ Dashboards typically include a combination of charts, tables, and other visualiz
 ![Screenshot (3026)](https://user-images.githubusercontent.com/97810143/212661670-3f902952-49a1-4dfc-a5ee-697265c065a5.png)
 
 
-## Technology Used: 
+## Tech Stack Used: 
 Microsoft PowerBI
